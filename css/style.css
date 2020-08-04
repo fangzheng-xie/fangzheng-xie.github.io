@@ -73,8 +73,8 @@ ol {
 
 /*--/banner --*/
 
-/*.main-banner {
-    background: url(../images/banner1.jpg)no-repeat center;
+.main-banner {
+    background: url(../background.jpg)no-repeat center;
     -webkit-background-size: cover;
     -moz-background-size: cover;
     -o-background-size: cover;
@@ -82,7 +82,7 @@ ol {
     background-size: cover;
     position: relative;
     min-height: 100vh;
-}*/
+}
 
 .banner-info {
     padding-top: 5em;
