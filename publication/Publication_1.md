@@ -53,7 +53,7 @@ subtitle = ""
 <!--<sup>\# </sup> \: Co-first authors-->
 
 <!--### Theoretical and Methodology Works    -->
--   **Entrywise limit theorems of eigenvectors and their one-step refinement for sparse random graphs**<br>**Fangzheng Xie** (Technical report) [<a href="https://arxiv.org/abs/2106.09840"><strong>arXiv</strong></a>]
+-   **Entrywise limit theorems of eigenvectors for signal-plus-noise matrix models with weak signals**<br>**Fangzheng Xie** (Technical report) [<a href="https://arxiv.org/abs/2106.09840"><strong>arXiv</strong></a>]
 
 -   **Euclidean Representation of Low-Rank Matrices and Its Statistical Applications**<br>**Fangzheng Xie** (Technical report) [<a href="https://arxiv.org/abs/2103.04220"><strong>arXiv</strong></a>]
 
@@ -61,11 +61,13 @@ subtitle = ""
 
 -   **A Theoretical Framework of the Scaled Gaussian Stochastic Process in Prediction and Calibration**<br>Mengyang Gu, **Fangzheng Xie**, Long Wang (Technical report) [<a href="https://arxiv.org/abs/1807.03829"><strong>arXiv</strong></a>]
 
--   **Simultaneous Learning the Dimension and Parameter of a Statistical Model with Big Data**<br>Long Wang, **Fangzheng Xie**, Yanxun Xu (Under revision).
+-   **Simultaneous Learning the Dimension and Parameter of a Statistical Model with Big Data**<br>Long Wang, **Fangzheng Xie**, Yanxun Xu <br>  *Statistics in Biosciences, accepted for publication, 2022.* [<a href = "https://link.springer.com/article/10.1007/s12561-021-09324-4" target="_blank" title=""><strong>Link</strong></a>]    
 
--    **Bayesian Estimation of Sparse Spiked Covariance Matrices in High Dimensions**<br>**Fangzheng Xie**, Yanxun Xu, Carey Priebe, and Joshua Cape (Under revision) [<a href="http://arxiv.org/abs/1808.07433"><strong>arXiv</strong></a>]    
+-    **Bayesian Sparse Spiked Covariance Model with a Continuous Matrix Shrinkage Prior**<br>**Fangzheng Xie**, Yanxun Xu, Carey Priebe, and Joshua Cape <br>
+<font color = #CC5500> 
+<i>Bayesian Analysis</i></font>, accepted for publication, 2022. [<a href="https://projecteuclid.org/journals/bayesian-analysis/advance-publication/Bayesian-Sparse-Spiked-Covariance-Model-with-a-Continuous-Matrix-Shrinkage/10.1214/21-BA1292.full" target="_blank" title=""><strong>Link</strong></a>]
 
--    **Bayesian Projected Calibration of Computer Models**<br>**Fangzheng Xie**, Yanxun Xu  <br> <font color = "red"> <i>Journal of the American Statistical Association</i></font>, accepted for publication, 2020. [<a href="https://amstat.tandfonline.com/doi/abs/10.1080/01621459.2020.1753519?casa_token=PYAZ9qfLQ5cAAAAA%3AnBkPeOyepfwUkKs4TtbijCzyxNdrUmPLlFssVw1VZ8pIGC-fM6V5zvJpW8nljRITnrcUeQyzxBx4Kg&journalCode=uasa20#.XxeVAlxKiUk"><strong>Link</strong></a>] [<a href="/materials/BayProjected_0.1.0.tar.gz" target="_blank" title=""><strong>R Package</strong></a>]
+-    **Bayesian Projected Calibration of Computer Models**<br>**Fangzheng Xie**, Yanxun Xu  <br> <font color = "red"> <i>Journal of the American Statistical Association</i></font>, 2022; 116 (536): 1965-1982. [<a href="https://amstat.tandfonline.com/doi/abs/10.1080/01621459.2020.1753519?casa_token=PYAZ9qfLQ5cAAAAA%3AnBkPeOyepfwUkKs4TtbijCzyxNdrUmPLlFssVw1VZ8pIGC-fM6V5zvJpW8nljRITnrcUeQyzxBx4Kg&journalCode=uasa20#.XxeVAlxKiUk"><strong>Link</strong></a>] [<a href="/materials/BayProjected_0.1.0.tar.gz" target="_blank" title=""><strong>R Package</strong></a>]
 
 -    **BAREB: A Bayesian repulsive biclustering model for periodontal data** <br> Yuliang Li, Dipankar Bandyopadhyay, **Fangzheng Xie**, and Yanxun Xu <br>  *Statistics in Medicine, 2020; 39(16): 2139-2151.* [<a href = "https://onlinelibrary.wiley.com/doi/abs/10.1002/sim.8536" target="_blank" title=""><strong>Link</strong></a>] [<a href="https://github.com/YanxunXu/BAREB" target="_blank" title=""><strong>R Package</strong></a>]    
 
