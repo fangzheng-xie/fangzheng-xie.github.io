@@ -53,6 +53,8 @@ subtitle = ""
 <!--<sup>\# </sup> \: Co-first authors-->
 
 <!--### Theoretical and Methodology Works    -->
+-   **Eigenvector-Assisted Statistical Inference for Signal-Plus-Noise Matrix Models**<br>**Fangzheng Xie**, Dingbo Wu (Technical report) [<a href="https://arxiv.org/abs/2203.16688"><strong>arXiv</strong></a>]
+
 -   **Entrywise limit theorems of eigenvectors for signal-plus-noise matrix models with weak signals**<br>**Fangzheng Xie** (Technical report) [<a href="https://arxiv.org/abs/2106.09840"><strong>arXiv</strong></a>]
 
 -   **Euclidean Representation of Low-Rank Matrices and Its Statistical Applications**<br>**Fangzheng Xie** (Technical report) [<a href="https://arxiv.org/abs/2103.04220"><strong>arXiv</strong></a>]
