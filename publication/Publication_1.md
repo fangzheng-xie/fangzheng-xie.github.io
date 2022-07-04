@@ -81,9 +81,8 @@ subtitle = ""
 
 -  **Rates of Contraction with respect to L2-distance for Bayesian Nonparametric Regression** <br> **Fangzheng Xie**, Wei Jin, Yanxun Xu <br> <i><font color = #CC5500> Electronic Journal of Statistics</i></font>, 2019, Vol. 13, No. 2, 3485-3512. [<a href="https://projecteuclid.org/euclid.ejs/1569895281" target="_blank" title=""><strong>Link</strong></a>]
 
+-  **BayCount: A Bayesian Decomposition Method for Inferring Tumor Heterogeneity using RNA-Seq Counts** <br> **Fangzheng Xie**, Mingyuan Zhou, Yanxun Xu <br>  <font color = #CC5500><i>Annals of Applied Statistics</i></font>, 2018, Vol. 12, No. 3, 1605-1627. [<a href = "https://projecteuclid.org/euclid.aoas/1536652967" target="_blank" title=""><strong>Link</strong></a>] [<a href="/materials/BayCount_0.1.0.tar.gz" target="_blank" title=""><strong>R Package</strong></a>] [<a href="/materials/Installation_script.r" target="_blank" title=""><strong>Installation R Script</strong></a>]
+
 -   **Adaptive Bayesian Nonparametric Regression using Kernel Mixture of Polynomials with Application to Partial Linear Model** <br> **Fangzheng Xie**, Yanxun Xu <br>
 <font color = #CC5500> 
 <i>Bayesian Analysis</i></font>, 2020; 15(1): 159-186. [<a href="https://projecteuclid.org/euclid.ba/1550826222" target="_blank" title=""><strong>Link</strong></a>]
-
--  **BayCount: A Bayesian Decomposition Method for Inferring Tumor Heterogeneity using RNA-Seq Counts** <br> **Fangzheng Xie**, Mingyuan Zhou, Yanxun Xu <br>  <font color = #CC5500><i>Annals of Applied Statistics</i></font>, 2018, Vol. 12, No. 3, 1605-1627. [<a href = "https://projecteuclid.org/euclid.aoas/1536652967" target="_blank" title=""><strong>Link</strong></a>] [<a href="/materials/BayCount_0.1.0.tar.gz" target="_blank" title=""><strong>R Package</strong></a>] [<a href="/materials/Installation_script.r" target="_blank" title=""><strong>Installation R Script</strong></a>]
-
