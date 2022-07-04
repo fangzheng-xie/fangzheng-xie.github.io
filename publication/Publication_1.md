@@ -53,7 +53,7 @@ subtitle = ""
 <!--<sup>\# </sup> \: Co-first authors-->
 
 <!--### Theoretical and Methodology Works    -->
--    **Frequentist and Bayesian inference of random graphs with a surrogate likelihood function**<br>Dingbo Wu, **Fangzheng Xie** (Technical report) [<a href="/materials/lgraph_0.1.0.tar.gz" target="_blank" title=""><strong>R Package</strong></a>]
+-    **Statistical inference of random graphs with a surrogate likelihood function**<br>Dingbo Wu, **Fangzheng Xie** (Technical report) [<a href="/materials/lgraph_0.1.0.tar.gz" target="_blank" title=""><strong>R Package</strong></a>]
 
 -   **Eigenvector-Assisted Statistical Inference for Signal-Plus-Noise Matrix Models**<br>**Fangzheng Xie**, Dingbo Wu (Technical report) [<a href="https://arxiv.org/abs/2203.16688"><strong>arXiv</strong></a>]
 
