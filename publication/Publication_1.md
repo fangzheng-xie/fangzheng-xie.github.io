@@ -53,15 +53,17 @@ subtitle = ""
 <!--<sup>\# </sup> \: Co-first authors-->
 
 <!--### Theoretical and Methodology Works    -->
+-    **Frequentist and Bayesian inference of random graphs with a surrogate likelihood function**<br>Dingbo Wu, **Fangzheng Xie** (Technical report) [<a href="/materials/lgraph_0.1.0.tar.gz" target="_blank" title=""><strong>R Package</strong></a>]
+
 -   **Eigenvector-Assisted Statistical Inference for Signal-Plus-Noise Matrix Models**<br>**Fangzheng Xie**, Dingbo Wu (Technical report) [<a href="https://arxiv.org/abs/2203.16688"><strong>arXiv</strong></a>]
 
 -   **Entrywise limit theorems of eigenvectors for signal-plus-noise matrix models with weak signals**<br>**Fangzheng Xie** (Technical report) [<a href="https://arxiv.org/abs/2106.09840"><strong>arXiv</strong></a>]
 
 -   **Euclidean Representation of Low-Rank Matrices and Its Statistical Applications**<br>**Fangzheng Xie** (Technical report) [<a href="https://arxiv.org/abs/2103.04220"><strong>arXiv</strong></a>]
 
--   **Efficient Estimation for Random Dot Product Graphs via a One-step Procedure**<br>**Fangzheng Xie**, Yanxun Xu <br> <font color = "red"> <i>Journal of the American Statistical Association</i></font>, accepted for publication, 2021. [<a href="/materials/EfficientRDPG.pdf"><strong>Manuscript</strong></a>] [<a href="/materials/EfficientRDPG_Supplement.pdf" target="_blank" title=""><strong>Supplement</strong></a>]
+-   **Efficient Estimation for Random Dot Product Graphs via a One-step Procedure**<br>**Fangzheng Xie**, Yanxun Xu <br> <font color = "red"> <i>Journal of the American Statistical Association</i></font>, accepted for publication, 2021. [<a href = "https://www.tandfonline.com/doi/abs/10.1080/01621459.2021.1948419?journalCode=uasa20" target="_blank" title=""><strong>Link</strong></a>]    
 
--   **A Theoretical Framework of the Scaled Gaussian Stochastic Process in Prediction and Calibration**<br>Mengyang Gu, **Fangzheng Xie**, Long Wang (Technical report) [<a href="https://arxiv.org/abs/1807.03829"><strong>arXiv</strong></a>]
+-   **A Theoretical Framework of the Scaled Gaussian Stochastic Process in Prediction and Calibration**<br>Mengyang Gu, **Fangzheng Xie**, Long Wang <br> *SIAM/ASA Journal of Uncertainty Quantification, accepted for publication, 2022.* [<a href="https://arxiv.org/abs/1807.03829"><strong>arXiv</strong></a>]
 
 -   **Simultaneous Learning the Dimension and Parameter of a Statistical Model with Big Data**<br>Long Wang, **Fangzheng Xie**, Yanxun Xu <br>  *Statistics in Biosciences, accepted for publication, 2022.* [<a href = "https://link.springer.com/article/10.1007/s12561-021-09324-4" target="_blank" title=""><strong>Link</strong></a>]    
 
@@ -71,7 +73,7 @@ subtitle = ""
 
 -    **Bayesian Projected Calibration of Computer Models**<br>**Fangzheng Xie**, Yanxun Xu  <br> <font color = "red"> <i>Journal of the American Statistical Association</i></font>, 2022; 116 (536): 1965-1982. [<a href="https://amstat.tandfonline.com/doi/abs/10.1080/01621459.2020.1753519?casa_token=PYAZ9qfLQ5cAAAAA%3AnBkPeOyepfwUkKs4TtbijCzyxNdrUmPLlFssVw1VZ8pIGC-fM6V5zvJpW8nljRITnrcUeQyzxBx4Kg&journalCode=uasa20#.XxeVAlxKiUk"><strong>Link</strong></a>] [<a href="/materials/BayProjected_0.1.0.tar.gz" target="_blank" title=""><strong>R Package</strong></a>]
 
--    **BAREB: A Bayesian repulsive biclustering model for periodontal data** <br> Yuliang Li, Dipankar Bandyopadhyay, **Fangzheng Xie**, and Yanxun Xu <br>  *Statistics in Medicine, 2020; 39(16): 2139-2151.* [<a href = "https://onlinelibrary.wiley.com/doi/abs/10.1002/sim.8536" target="_blank" title=""><strong>Link</strong></a>] [<a href="https://github.com/YanxunXu/BAREB" target="_blank" title=""><strong>R Package</strong></a>]    
+-    **BAREB: A Bayesian repulsive biclustering model for periodontal data** <br> Yuliang Li, Dipankar Bandyopadhyay, **Fangzheng Xie**, and Yanxun Xu <br>  *Statistics in Medicine, 2020; 39(16): 2139-2151.* [<a href = "https://onlinelibrary.wiley.com/doi/abs/10.1002/sim.8536" target="_blank" title=""><strong>Link</strong></a>] 
 
 -    **Optimal Bayesian Estimation for Random Dot Product Graphs** <br> **Fangzheng Xie**, Yanxun Xu <br>  <font color = "red"><i>Biometrika</i></font>, 2020, 107(4): 875-889. [<a href="https://academic.oup.com/biomet/article-abstract/doi/10.1093/biomet/asaa031/5867841?redirectedFrom=fulltext"><strong>Link</strong></a>]
 
@@ -84,3 +86,4 @@ subtitle = ""
 <i>Bayesian Analysis</i></font>, 2020; 15(1): 159-186. [<a href="https://projecteuclid.org/euclid.ba/1550826222" target="_blank" title=""><strong>Link</strong></a>]
 
 -  **BayCount: A Bayesian Decomposition Method for Inferring Tumor Heterogeneity using RNA-Seq Counts** <br> **Fangzheng Xie**, Mingyuan Zhou, Yanxun Xu <br>  <font color = #CC5500><i>Annals of Applied Statistics</i></font>, 2018, Vol. 12, No. 3, 1605-1627. [<a href = "https://projecteuclid.org/euclid.aoas/1536652967" target="_blank" title=""><strong>Link</strong></a>] [<a href="/materials/BayCount_0.1.0.tar.gz" target="_blank" title=""><strong>R Package</strong></a>] [<a href="/materials/Installation_script.r" target="_blank" title=""><strong>Installation R Script</strong></a>]
+
