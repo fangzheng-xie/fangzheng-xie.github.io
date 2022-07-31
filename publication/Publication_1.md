@@ -53,6 +53,8 @@ subtitle = ""
 <!--<sup>\# </sup> \: Co-first authors-->
 
 <!--### Theoretical and Methodology Works    -->
+-    **Bayesian Sparse Gaussian Mixture Model in High Dimensions**<br>Dapeng Yao, **Fangzheng Xie**, Yanxun Xu (Technical report) [<a href="https://arxiv.org/abs/2207.10301"><strong>arXiv</strong></a>]
+
 -    **Statistical inference of random graphs with a surrogate likelihood function**<br>Dingbo Wu, **Fangzheng Xie** (Technical report) [<a href="https://arxiv.org/abs/2207.01702"><strong>arXiv</strong></a>] [<a href="/materials/lgraph_0.1.0.tar.gz" target="_blank" title=""><strong>R Package</strong></a>]
 
 -   **Eigenvector-Assisted Statistical Inference for Signal-Plus-Noise Matrix Models**<br>**Fangzheng Xie**, Dingbo Wu (Technical report) [<a href="https://arxiv.org/abs/2203.16688"><strong>arXiv</strong></a>]
