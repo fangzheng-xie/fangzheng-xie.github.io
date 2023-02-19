@@ -61,7 +61,7 @@ subtitle = ""
 
 -   **Entrywise limit theorems of eigenvectors for signal-plus-noise matrix models with weak signals**<br>**Fangzheng Xie** (Technical report) [<a href="https://arxiv.org/abs/2106.09840"><strong>arXiv</strong></a>]
 
--   **Euclidean Representation of Low-Rank Matrices and Its Statistical Applications**<br>**Fangzheng Xie** (Technical report) [<a href="https://arxiv.org/abs/2103.04220"><strong>arXiv</strong></a>]
+-   **Euclidean Representation of Low-Rank Matrices and Its Geometric Properties**<br>**Fangzheng Xie** <br> <font color = "red"> <i>SIAM Journal on Matrix Analysis and Applications</i></font>, accepted for publication, 2023. [<a href="/materials/M148912.pdf" target="_blank" title=""><strong>Manuscript</strong></a>] 
 
 -   **Efficient Estimation for Random Dot Product Graphs via a One-step Procedure**<br>**Fangzheng Xie**, Yanxun Xu <br> <font color = "red"> <i>Journal of the American Statistical Association</i></font>, accepted for publication, 2021. [<a href = "https://www.tandfonline.com/doi/abs/10.1080/01621459.2021.1948419?journalCode=uasa20" target="_blank" title=""><strong>Link</strong></a>]    
 
