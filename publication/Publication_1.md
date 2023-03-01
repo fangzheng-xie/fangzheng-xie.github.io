@@ -59,7 +59,7 @@ subtitle = ""
 
 -   **Eigenvector-Assisted Statistical Inference for Signal-Plus-Noise Matrix Models**<br>**Fangzheng Xie**, Dingbo Wu (Technical report) [<a href="https://arxiv.org/abs/2203.16688"><strong>arXiv</strong></a>]
 
--   **Entrywise limit theorems of eigenvectors for signal-plus-noise matrix models with weak signals**<br>**Fangzheng Xie** (Technical report) [<a href="https://arxiv.org/abs/2106.09840"><strong>arXiv</strong></a>]
+-   **Entrywise limit theorems for eigenvectors of signal-plus-noise matrix models with weak signals**<br>**Fangzheng Xie** <br> <font color = "red"> <i>Bernoulli</i></font>, accepted for publication, 2023. [<a href="/materials/BEJ1602.pdf" target="_blank" title=""><strong>Manuscript</strong></a>] [<a href="/materials/BEJ1602_Supplement.pdf" target="_blank" title=""><strong>Supplement</strong></a>] 
 
 -   **Euclidean Representation of Low-Rank Matrices and Its Geometric Properties**<br>**Fangzheng Xie** <br> <font color = "red"> <i>SIAM Journal on Matrix Analysis and Applications</i></font>, accepted for publication, 2023. [<a href="/materials/M148912.pdf" target="_blank" title=""><strong>Manuscript</strong></a>] 
 
