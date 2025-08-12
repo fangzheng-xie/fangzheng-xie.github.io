@@ -1,4 +1,4 @@
-baseURL = 'https://example.com'
+baseURL = 'https://fangzheng-xie.github.io/fangzheng-xie/'
 languageCode = 'en-us'
 title = 'Fangzheng Xie'
 theme = 'PaperMod'
@@ -35,6 +35,10 @@ theme = 'PaperMod'
 [[params.socialIcons]]
   name = "orcid"
   url = "https://orcid.org/0000-0003-2436-9542"
+
+[[params.socialIcons]]
+  name = "arxiv"
+  url = "https://arxiv.org/a/xie_f_1.html"
 
 
 [[menu.main]]
