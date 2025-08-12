@@ -1,0 +1,210 @@
+/* Custom Academic Theme Styling - Light Mode Only */
+
+:root {
+    --primary-color: #1e3a8a;        /* Academic blue */
+    --secondary-color: #059669;       /* Professional green */
+    --accent-color: #dc2626;          /* Academic red for emphasis */
+    --text-color: #1f2937;           /* Dark gray text */
+    --bg-color: #ffffff;             /* Clean white background */
+    --border-color: #e5e7eb;         /* Light gray borders */
+}
+
+/* Enhanced typography */
+body {
+    font-family: 'Georgia', 'Times New Roman', serif;
+    line-height: 1.6;
+    color: var(--text-color);
+}
+
+h1, h2, h3, h4, h5, h6 {
+    font-family: 'Helvetica Neue', 'Arial', sans-serif;
+    font-weight: 600;
+    color: var(--primary-color);
+}
+
+h1 {
+    border-bottom: 3px solid var(--primary-color);
+    padding-bottom: 0.5rem;
+}
+
+h2 {
+    border-bottom: 1px solid var(--border-color);
+    padding-bottom: 0.3rem;
+}
+
+a {
+    color: var(--primary-color);
+    transition: color 0.3s ease;
+}
+
+a:hover {
+    color: var(--secondary-color);
+}
+
+/* Profile Section - Centered Layout */
+.profile-section {
+    text-align: center;
+    margin-bottom: 3rem;
+    padding: 2rem 0;
+}
+
+.profile-image-container {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    margin-bottom: 2rem;
+}
+
+.profile-image {
+    width: 300px;
+    height: 300px;
+    border-radius: 50%;
+    object-fit: cover;
+    box-shadow: 0 8px 24px rgba(0,0,0,0.15);
+    transition: all 0.3s ease;
+    border: 4px solid var(--primary-color);
+}
+
+.profile-image:hover {
+    transform: scale(1.05);
+    box-shadow: 0 12px 32px rgba(0,0,0,0.2);
+}
+
+/* Manual Social Icons Styling */
+.social-icons-manual {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    gap: 1.5rem;
+    margin: 2rem 0;
+    flex-wrap: wrap;
+}
+
+.social-icons-manual a {
+    display: inline-flex;
+    align-items: center;
+    justify-content: center;
+    width: 60px;
+    height: 60px;
+    border-radius: 50%;
+    background-color: var(--primary-color);
+    color: white;
+    text-decoration: none;
+    transition: all 0.3s ease;
+    font-size: 1.8rem;
+    box-shadow: 0 4px 12px rgba(0,0,0,0.15);
+    border: 2px solid transparent;
+}
+
+.social-icons-manual a:hover {
+    background-color: var(--secondary-color);
+    transform: translateY(-4px);
+    box-shadow: 0 8px 24px rgba(0,0,0,0.25);
+    color: white;
+    border-color: var(--secondary-color);
+}
+
+/* Ensure the main content is properly centered */
+.main {
+    max-width: 800px;
+    margin: 0 auto;
+    padding: 0 2rem;
+}
+
+/* Publication styling */
+.publication-entry {
+    margin-bottom: 2rem;
+    padding: 1rem;
+    border-left: 4px solid var(--primary-color);
+    background-color: #f9fafb;
+    border-radius: 6px;
+}
+
+.publication-title {
+    font-weight: bold;
+    margin-bottom: 0.5rem;
+}
+
+.publication-authors {
+    color: #6b7280;
+    margin-bottom: 0.3rem;
+}
+
+.publication-venue {
+    font-style: italic;
+    color: var(--accent-color);
+    margin-bottom: 0.5rem;
+}
+
+.publication-links a {
+    background-color: var(--primary-color);
+    color: white;
+    padding: 0.2rem 0.5rem;
+    border-radius: 3px;
+    font-size: 0.85rem;
+    margin-right: 0.5rem;
+    text-decoration: none;
+    display: inline-block;
+    margin-bottom: 0.3rem;
+}
+
+.publication-links a:hover {
+    background-color: var(--secondary-color);
+}
+
+/* Education section styling */
+.education-section ul {
+    list-style: none;
+    padding-left: 0;
+}
+
+.education-section li {
+    margin-bottom: 0.5rem;
+    padding-left: 1.5rem;
+    position: relative;
+}
+
+.education-section li::before {
+    content: "🎓";
+    position: absolute;
+    left: 0;
+}
+
+/* Responsive design */
+@media (max-width: 768px) {
+    .profile-image {
+        width: 250px;
+        height: 250px;
+    }
+    
+    .social-icons-manual {
+        gap: 1rem;
+    }
+    
+    .social-icons-manual a {
+        width: 50px;
+        height: 50px;
+        font-size: 1.5rem;
+    }
+    
+    .main {
+        padding: 0 1rem;
+    }
+    
+    .profile-section {
+        padding: 1rem 0;
+    }
+}
+
+@media (max-width: 480px) {
+    .profile-image {
+        width: 200px;
+        height: 200px;
+    }
+    
+    .social-icons-manual a {
+        width: 45px;
+        height: 45px;
+        font-size: 1.3rem;
+    }
+}

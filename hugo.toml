@@ -1,0 +1,71 @@
+baseURL = 'https://example.com'
+languageCode = 'en-us'
+title = 'Fangzheng Xie'
+theme = 'PaperMod'
+
+[params]
+  author = "Fangzheng Xie"
+  description = "Assistant Professor of Statistics at Indiana University"
+  ShowReadingTime = false
+  ShowShareButtons = false
+  ShowPostNavLinks = false
+  ShowBreadCrumbs = true
+  ShowCodeCopyButtons = true
+  ShowWordCount = false
+  ShowRssButtonInSectionTermList = false
+  UseHugoToc = true
+  disableSpecial1stPost = false
+  disableScrollToTop = false
+  comments = false
+  hidemeta = false
+  hideSummary = false
+  showtoc = false
+  tocopen = false
+  defaultTheme = "light"
+  disableThemeToggle = true
+
+[[params.socialIcons]]
+  name = "email"
+  url = "mailto:fxie@iu.edu"
+
+[[params.socialIcons]]
+  name = "googlescholar" 
+  url = "https://scholar.google.com/citations?user=gNj7MAIAAAAJ&hl=en-US"
+
+[[params.socialIcons]]
+  name = "orcid"
+  url = "https://orcid.org/0000-0003-2436-9542"
+
+
+[[menu.main]]
+  name = "Home"
+  url = "/"
+  weight = 10
+
+[[menu.main]]
+  name = "Publications"
+  url = "/publications/"
+  weight = 20
+
+[[menu.main]]
+  name = "Teaching"
+  url = "/teaching/"
+  weight = 30
+
+[[menu.main]]
+  name = "Team"
+  url = "/team/"
+  weight = 40
+
+[markup.highlight]
+  noClasses = false
+  codeFences = true
+  guessSyntax = true
+  lineNos = true
+  style = "github"
+
+[markup.goldmark.renderer]
+  unsafe = true
+
+[outputs]
+  home = ["HTML", "RSS", "JSON"]
