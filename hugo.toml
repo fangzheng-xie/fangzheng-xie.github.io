@@ -1,4 +1,4 @@
-baseURL = 'https://fangzheng-xie.github.io/fangzheng-xie/'
+baseURL = 'https://fangzheng-xie.github.io/'
 languageCode = 'en-us'
 title = 'Fangzheng Xie'
 theme = 'PaperMod'
