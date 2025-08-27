@@ -31,4 +31,4 @@ I received my Ph.D. from the [Department of Applied Mathematics and Statistics](
 
 ### Contact Information
 - **Email**: fxie at iu dot edu
-- **Office**: Swain Hall East 207
+- **Office**: Swain Hall East 227
