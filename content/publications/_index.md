@@ -4,7 +4,9 @@
 <div class="publication-title">SANVI: A Fast Spectral-Assisted Network Variational Inference Method with an Extended Surrogate Likelihood Function</div>
 <div class="publication-authors">Dingbo Wu*, <strong>Fangzheng Xie</strong></div>
 <div class="publication-venue">Technical Report</div>
+<div class="publication-links">
 <a href="https://arxiv.org/pdf/2509.00562">arXiv</a>
+</div>
 </div>
 
 <div class="publication-entry">
