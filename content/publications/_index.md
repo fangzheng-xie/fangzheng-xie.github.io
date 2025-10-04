@@ -202,7 +202,6 @@
 <a href="/materials/Installation_script.r">Installation R Script</a>
 </div>
 </div>
----
-*\*: Student first author*
+*: Student first author
 
-**Last updated: 08/2025**
+**Last updated: 10/2025**
