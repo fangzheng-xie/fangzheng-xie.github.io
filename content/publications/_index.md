@@ -1,6 +1,16 @@
 # Working Papers
 
 <div class="publication-entry">
+<div class="publication-title">Meta-Router: Bridging Gold-standard and Preference-based Evaluations in Large Language Model Routing
+</div>
+<div class="publication-authors">Yichi Zhang, <strong>Fangzheng Xie</strong>, Shu Yang, Chong Wu</div>
+<div class="publication-venue">Technical Report</div>
+<div class="publication-links">
+<a href="https://arxiv.org/abs/2509.25535">arXiv</a>
+</div>
+</div>
+
+<div class="publication-entry">
 <div class="publication-title">SANVI: A Fast Spectral-Assisted Network Variational Inference Method with an Extended Surrogate Likelihood Function</div>
 <div class="publication-authors">Dingbo Wu*, <strong>Fangzheng Xie</strong></div>
 <div class="publication-venue">Technical Report</div>
@@ -30,9 +40,9 @@
 <div class="publication-entry">
 <div class="publication-title">Higher-Order Entrywise Eigenvectors Analysis of Low-Rank Random Matrices: Bias Correction, Edgeworth Expansion, and Bootstrap</div>
 <div class="publication-authors"><strong>Fangzheng Xie</strong>, Yichi Zhang</div>
-<div class="publication-venue"><em>Annals of Statistics</em>, accepted for publication, 2025+</div>
+<div class="publication-venue"><em>Annals of Statistics</em>, 2025; 53 (4), 1667-1696</div>
 <div class="publication-links">
-<a href="https://www.e-publications.org/ims/submission/AOS/user/submissionFile/63562?confirm=703ecd51">Link</a>
+<a href="https://projecteuclid.org/journals/annals-of-statistics/volume-53/issue-4/Higher-order-entrywise-eigenvectors-analysis-of-low-rank-random-matrices/10.1214/25-AOS2520.short">Link</a>
 </div>
 </div>
 

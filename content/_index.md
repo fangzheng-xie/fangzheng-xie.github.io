@@ -12,8 +12,8 @@ hidemeta: true
   <!-- Social Icons -->
   <div style="margin: 1rem 0; font-size: 0.9rem;">
     <a href="mailto:fxie@iu.edu" style="margin: 0 1rem;">Email</a> |
-    <a href="https://scholar.google.com/citations?user=YOUR_GOOGLE_SCHOLAR_ID" style="margin: 0 1rem;">Google Scholar</a> |
-    <a href="https://orcid.org/YOUR_ORCID_ID" style="margin: 0 1rem;">ORCID</a> |
+    <a href="https://scholar.google.com/citations?user=YOUR_GOOGLE_SCHOLAR_ID&user=gNj7MAIAAAAJ" style="margin: 0 1rem;">Google Scholar</a> |
+    <a href="https://orcid.org/0000-0003-2436-9542" style="margin: 0 1rem;">ORCID</a> |
     <a href="https://arxiv.org/a/xie_f_1.html" style="margin: 0 1rem;">arXiv</a>
   </div>
 </div>
@@ -31,4 +31,4 @@ I received my Ph.D. from the [Department of Applied Mathematics and Statistics](
 
 ### Contact Information
 - **Email**: fxie at iu dot edu
-- **Office**: Swain Hall East 207
+- **Office**: Swain Hall East 227
