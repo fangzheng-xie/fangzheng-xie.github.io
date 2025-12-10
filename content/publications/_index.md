@@ -1,6 +1,17 @@
 # Working Papers
 
 <div class="publication-entry">
+<div class="publication-title">Uncertainty quantification for mixed membership in multilayer networks with degree heterogeneity using Gaussian variational inference
+</div>
+<div class="publication-authors"><strong>Fangzheng Xie</strong>, Hsin-Hsiung Huang
+</div>
+<div class="publication-venue">Technical Report</div>
+<div class="publication-links">
+<a href="https://arxiv.org/abs/2512.08146">arXiv</a>
+</div>
+</div>
+
+<div class="publication-entry">
 <div class="publication-title">Meta-Router: Bridging Gold-standard and Preference-based Evaluations in Large Language Model Routing
 </div>
 <div class="publication-authors">Yichi Zhang, <strong>Fangzheng Xie</strong>, Shu Yang, Chong Wu</div>
@@ -30,7 +41,7 @@
 <div class="publication-entry">
 <div class="publication-title">Statistical inference of random graphs with a surrogate likelihood function</div>
 <div class="publication-authors">Dingbo Wu*, <strong>Fangzheng Xie</strong></div>
-<div class="publication-venue"><em>Journal of Machine Learning Research</em>, accepted conditioned on minor revision, 2025+</div>
+<div class="publication-venue"><em>Journal of Machine Learning Research</em>, in press, 2025+</div>
 <div class="publication-links">
 <a href="https://arxiv.org/abs/2207.01702">arXiv</a>
 <a href="/materials/lgraph_0.1.0.tar.gz">R Package</a>
